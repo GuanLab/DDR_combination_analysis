@@ -1,0 +1,5 @@
+.identifier_batch	.identifier_sample_name	.metadata_moa	.metadata_treatment_remarks	.metadata_treatment	.response_aoc	.metadata_cancer_type	.metadata_cancer_subtype
+Oncolead_000	A204	Cytostatic_Intercalator		melphalan	0.47	sarcoma	sarcoma - rhabdomyosarcoma
+Oncolead_000	A2780	Cytostatic_Intercalator		melphalan	0.5379999999999999	ovary	ovary
+Oncolead_000	A549	Cytostatic_Intercalator		melphalan	0.447	lung	lung - NSCLC
+Oncolead_000	ASPC1	Cytostatic_Intercalator		melphalan	0.481	pancreas	pancreas

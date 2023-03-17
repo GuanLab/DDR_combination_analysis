@@ -1,0 +1,5 @@
+.identifier_batch	.identifier_sample_name	.metadata_moa_1	.metadata_moa_2	.metadata_treatment_remarks	.metadata_treatment_1	.metadata_treatment_2	.response_aoc	.response_bliss	.metadata_cancer_type	.metadata_cancer_subtype
+Oncolead_000	A204	Cytostatic_Antibiotic	ATMi	1uM	bleomycin	M3541		0.419064348	sarcoma	sarcoma - rhabdomyosarcoma
+Oncolead_000	A2780	Cytostatic_Antibiotic	ATMi	1uM	bleomycin	M3541		0.533996915	ovary	ovary
+Oncolead_000	A549	Cytostatic_Antibiotic	ATMi	1uM	bleomycin	M3541		0.43099999	lung	lung - NSCLC
+Oncolead_000	ASPC1	Cytostatic_Antibiotic	ATMi	1uM	bleomycin	M3541		0.239655001	pancreas	pancreas
