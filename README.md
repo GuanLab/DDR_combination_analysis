@@ -8,7 +8,7 @@ This repository contains code for statistical analysis of DDR targeted combinati
 
 ## Before you begin
 
-Before running your code, please aquire the DDR combination response data from OSF repository: https://osf.io/8hbsx/
+Before running your code, please acquire the DDR combination response data from OSF repository: https://osf.io/8hbsx/
 The molecular characteriation of all cell lines used in this study can be obtained at: https://osf.io/8mxgj/
 
 ## prerequites
@@ -21,7 +21,7 @@ The molecular characteriation of all cell lines used in this study can be obtain
 
 ## Demo
 
-Please use jupyter notebook to run [demo.ipynb](https://github.com/GuanLab/DDR_combination_analysis/blob/main/demo.ipynb) to process and visualized the HTS dataset. Please refer to [`data_demo`](https://github.com/GuanLab/DDR_combination_analysis/tree/main/data_demo) for data demo. 
+* Open jupyter notebook to run [demo.ipynb](https://github.com/GuanLab/DDR_combination_analysis/blob/main/demo.ipynb) to process and visualize the HTS dataset you obtained from [OSF repository](https://osf.io/8hbsx/) and [OSF repository]( https://osf.io/8mxgj/). A facet of demo data is in the folder [`data_demo`](https://github.com/GuanLab/DDR_combination_analysis/tree/main/data_demo). 
 
 
 
