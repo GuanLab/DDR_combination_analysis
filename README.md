@@ -21,7 +21,7 @@ The molecular characteriation of all cell lines used in this study can be obtain
 
 ## Demo
 
-* Open jupyter notebook to run [demo.ipynb](https://github.com/GuanLab/DDR_combination_analysis/blob/main/demo.ipynb) to process and visualize the HTS dataset you obtained from [OSF repository](https://osf.io/8hbsx/) and [OSF repository]( https://osf.io/8mxgj/). A facet of demo data is in the folder [`data_demo`](https://github.com/GuanLab/DDR_combination_analysis/tree/main/data_demo). 
+* Open jupyter notebook to run [demo.ipynb](https://github.com/GuanLab/DDR_combination_analysis/blob/main/demo.ipynb) to process and visualize the HTS dataset you obtained from [https://osf.io/8hbsx/](https://osf.io/8hbsx/) and [https://osf.io/8mxgj/]( https://osf.io/8mxgj/). A facet of demo data is in the folder [`data_demo`](https://github.com/GuanLab/DDR_combination_analysis/tree/main/data_demo). After downloading the HTS data, put it under the folder data_demo to run the visualization code.
 
 
 
